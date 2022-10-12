@@ -1,4 +1,6 @@
 # Hello I'm YoungTak Yoo
 
 ## 안녕하세요 유영탁이라고 합니다.
-## 무엇을 모르고 무엇을 아는지 아는 개발자가 되고싶습니다.
+
+> Basically focused on FrontEnd 
+> But still I wanna study BackEnd Too!
